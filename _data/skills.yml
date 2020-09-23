@@ -9,6 +9,7 @@ languages:
 cloud:
   - item: AWS Lambda
   - item: AWS API Gateway
+  - item: AWS Cognito
   - item: Google App Engine
   - item: Google Cloud Storage
   - item: MS Azure
@@ -31,3 +32,4 @@ tools:
   - item: Visual Studio Professional
   - item: Azure DevOps Server
   - item: Linux
+  - item: SonarQube
