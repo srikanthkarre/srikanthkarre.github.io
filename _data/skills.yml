@@ -1,33 +1,33 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
+  - item: C#
+  - item: C++
+  - item: Java
+  - item: JavaScript
   - item: SQL
-  - item: R
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+cloud:
+  - item: AWS Lambda
+  - item: AWS API Gateway
+  - item: Google App Engine
+  - item: Google Cloud Storage
+  - item: MS Azure
+  - item: Vagrant
+  - item: Docker
+  - item: Kubernetes
+
+machine learning:
+  - item: PyTorch
+  - item: AWS ML Services
+  - item: IBM Watson Studio
+  - item: Statistical Modeling
+  - item: Graph Theory
 
 tools:
-  - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
-
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: PostgreSQL
+  - item: MySQL
+  - item: Visual Studio Professional
+  - item: Azure DevOps Server
+  - item: Linux
