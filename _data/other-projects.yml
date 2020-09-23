@@ -30,6 +30,18 @@
     - thing: Spacy
     - thing: NLP
 
+- name: Image Comparison
+  url: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
+  code: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
+  description: Comparing images is very easy for humans we can easily identify a dog in a picture, but it's difficult to put into words what a dog is, for example dog has 4 legs, but many animals have four legs, dog had a tail, but many animals have tails, to say the least it is very difficult for computers to identify a dog. I'm currently working on creating a image comparison machine learning model which takes in an image and outputs the most similar image from the most popular ImageNet dataset.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: IBM Watson Studio
+    - thing: Watson Machine Learning
+    - thing: COS
+    - thing: ImageNet
+
 - name: 3D Object Detection for Autonomous Driving
   url: https://github.com/sushanthsamala/3D-Object-Detection-for-Autonomous-Driving
   code: https://github.com/sushanthsamala/3D-Object-Detection-for-Autonomous-Driving
@@ -39,6 +51,17 @@
     - thing: CNN
     - thing: HOG
     - thing: Machine Learning
+
+- name: Recognizing Hand Written Digits
+  url: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
+  code: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
+  description: Recognizing handwritten numbers is very easy for humans, but it's a difficult task for machines. I created a simple handwritten digit recognizer in Watson Studio with PyTorch.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: IBM Watson Studio
+    - thing: Watson Machine Learning
+    - thing: COS
 
 - name: Data Management
   url: https://github.com/kwy518/Data-Management
@@ -52,6 +75,18 @@
     - thing: pandas
     - thing: xlrd
     - thing: gspread
+
+- name: E-Commerce Website
+  url: https://github.com/sushanthsamala/DevOps
+  code: https://github.com/sushanthsamala/DevOps
+  description: Currently working on an E-commerce website as a part of my academic project. Building the back-end code base for processing transactions, user authentication using Agile methodologies.
+  used:
+    - thing: Python
+    - thing: Vagrant
+    - thing: Docker
+    - thing: Kubernetes
+    - thing: VirtualBox
+    - thing: AWS
 
 - name: Identifying Fraud from Enron Dataset
   url: https://github.com/sushanthsamala/Enron_Fraud_Detection
