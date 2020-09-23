@@ -1,16 +1,16 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Sushanth Samala
+title: Sushanth Samala | Software Engineer
+description: I'm Sushanth Samala, Computer Science graduate student at New York University, Courant Institute of Mathematical Science.
+url: https://sushanthsamala.tech
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: sushanthsamala@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+resume: https://sushanthsamala.tech/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:sushanthsamala@gmail.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
@@ -18,9 +18,9 @@ social:
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/sushanthsamala
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/sushanthsamala
 
 # Build settings
 markdown: kramdown
