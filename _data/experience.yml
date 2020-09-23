@@ -30,7 +30,7 @@
 
 - company: Fisec Global
   url: https://fisecglobal.net/
-  time: June 2018 - July 2018
+  time: Jun 2018 - Jul 2018
   position: Research Intern (ML)
   location: Hyderabad, India
   description: <p>Devised a Machine Learning model to convert 2D images of materials to Voxel files using depth estimation techniques, a dataset of 1,000,000 images. As a result, the Model is able to generate <strong>3D files with an accuracy of 80%</strong>.</p> <p>Automated the process of manually creating 3D models for old, no longer in production parts using the Machine Learning model to be able to manufacture the parts. <strong>Reduced the cost required to generate a 3D model by 90%</strong>.</p>
