@@ -2,8 +2,7 @@
   <div class="section__title">Experience</div>
   <div class="section__content">
     <div class="jobs">
-      {% for job in site.data.experience %}
-
+      {% for job in site.data.education %}
       <div class="job">
         <div class="time-place">
           <div class="job__company">
@@ -13,19 +12,16 @@
           <div class="job__time">{{job.time}}</div>
         </div>
         <div class="job__position">{{job.position}}</div>
-        <br>{{job.description}}
-      </div>
-      <div class="project">
-        <div class="project__used">
-          {% for item in job.used %}
-          <span class="project__used__item">{{item.thing}}</span>
-          {% endfor %}
+        <div class="project">
+          <div class="project__used">
+            {% for item in project.used %}
+            <span class="project__used__item">{{item.thing}}</span>
+            {% endfor %}
+          </div>
         </div>
       </div>
-
       {% endfor %}
     </div>
-
     <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a>
   </div>
 </section>
