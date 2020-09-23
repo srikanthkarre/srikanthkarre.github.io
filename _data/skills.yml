@@ -16,7 +16,7 @@ cloud:
   - item: Docker
   - item: Kubernetes
 
-machine learning:
+machinelearning:
   - item: PyTorch
   - item: AWS ML Services
   - item: IBM Watson Studio
