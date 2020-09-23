@@ -1,7 +1,7 @@
 - name: Spaced Repetition Learning Using Reinforcement Learning
   url: https://github.com/sushanthsamala/Spaced-Repetition-Learning-Using-RL
   code: https://github.com/sushanthsamala/Spaced-Repetition-Learning-Using-RL
-  description: A reinforcement learning tutoring agent that interacts with a student simulation and chooses the activities/topics that help students maximize knowledge by carefully analysing the trade off between learning new topics and revising old topics at a particular moment, which is also known as <strong>spaced repetition learning</strong> . Our primary contribution is an automated tutor which takes an observation of student answering question and chooses the next question to review or learn. The agent outperformed various heuristic scheduler algorithms such as the popular Leitner and SuperMemo.
+  description: A reinforcement learning tutoring agent that interacts with a student simulation and chooses the activities/topics that help students maximize knowledge by carefully analysing the trade off between learning new topics and revising already learned topics at a particular moment, which is also known as <strong>spaced repetition learning</strong> . Our primary contribution is an automated tutor which takes an observation of student answering question and chooses the next question to review or learn. The agent outperformed various heuristic scheduler algorithms such as the popular Leitner and SuperMemo.
   used:
     - thing: Python
     - thing: Reinforcement Learning

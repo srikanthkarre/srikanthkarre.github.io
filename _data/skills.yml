@@ -25,7 +25,7 @@ machinelearning:
   - item: Graph Theory
 
 tools:
-  - item: Git & Github
+  - item: Git
   - item: Postman
   - item: PostgreSQL
   - item: MySQL
