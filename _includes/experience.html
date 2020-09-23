@@ -12,12 +12,13 @@
           <div class="job__time">{{job.time}}</div>
         </div>
         <div class="job__position">{{job.position}}</div>
-        {% for item in job.used %}
-        <span class="job__used__item">{{item.thing}}</span>
-        {% endfor %}
+          {% for item in job.used %}
+          <br>
+          <span class="job__used__item">{{item.thing}}</span>
+          {% endfor %}
         </div>
-      {% endfor %}
-    </div>
+        {% endfor %}
+      </div>
     <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a>
   </div>
 </section>

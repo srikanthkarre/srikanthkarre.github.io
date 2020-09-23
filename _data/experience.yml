@@ -2,6 +2,7 @@
   url: https://www.strivr.com/
   time: May 2020 - Present
   position: Software Engineer Intern
+  location: Palo Alto, California (Remote)
   description: <p>Built a feature on a WPF app to automate the process of capturing 360 degree screenshot of a Virtual Reality Experience video and converting the screenshots into equirectangular views 90, 270, 360 degree yaw angles apart.</p> <p>Developed an API to retrieve these screenshots and a web portal to display these images for easy access to the Data Science team. This removed the manual overhead and <strong>reduced the total time needed to get the screenshots by 99.99%</strong>.</p> <p>Currently working on automating testing the code base before deloying to production in Azure pipelines.</p>
   used:
     - thing: C#
@@ -16,6 +17,7 @@
   url: https://www.nyu.edu/life/information-technology/about-nyu-it.html
   time: Jan 2020 - Aug 2020
   position: Software Engineer Intern
+  location: New York, New York
   description: <p>Developed a search function to scan through an integrated set of data sources for a specific user, deployed it on AWS Lambda; The search function <strong>reduced the total search time for each user by 30%</strong>.</p> <p>Created a user authentication service using AWS Cognito and Shibboleth, and an API to connect to the Lambda search function, this <strong>increased the security of the NYU portal substantially</strong>.</p>
   used:
     - thing: Python
@@ -30,6 +32,7 @@
   url: https://fisecglobal.net/
   time: June 2018 - July 2018
   position: Research Intern (ML)
+  location: Hyderabad, India
   description: <p>Devised a Machine Learning model to convert 2D images of materials to Voxel files using depth estimation techniques, a dataset of 1,000,000 images. As a result, the Model is able to generate <strong>3D files with an accuracy of 80%</strong>.</p> <p>Automated the process of manually creating 3D models for old, no longer in production parts using the Machine Learning model to be able to manufacture the parts. <strong>Reduced the cost required to generate a 3D model by 90%</strong>.</p>
   used:
     - thing: Python
@@ -41,6 +44,7 @@
   url: http://www.youngleadersinitiative.com
   time: Mar 2016 - Mar 2017
   position: Fellow
+  location: Hyderabad, India
   description: <p>Led a team of 5 and performed market research on early start-ups. Identified the main challenges of start-ups to be lack of enough online presence, lack of marketing.</p> <p>Built responsive websites for <strong>5 companies under non-negotiable deadlines</strong>, negotiated with 3 clients by attending several technology events and networking with people which <strong>increased the revenue by 20%</strong>.</p> <p>Created a website for a client (3Dzyn) using Django as the backend, the site displayed 3D STL files of various objects used for 3D printing services.</p>
   used:
     - thing: HTML
@@ -53,6 +57,7 @@
   url: https://www.facebook.com/thetechnnogeek/
   time: Nov 2015 - Jan 2016
   position: Information Security Intern
+  location: Hyderabad, India
   description: <p>Researched the WhatsApp database structure on Android and IOS. Found a vulnerability in the implementation of AES cipher and devised an application to decrypt the WhatsApp database files (Crypt8) by exploiting this AES vulnerability.</p>
   used:
     - thing: Python
