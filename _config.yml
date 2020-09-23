@@ -9,12 +9,12 @@ cover: https://sushanthsamala.tech/img/og.png
 logo: https://sushanthsamala.tech/img/emojis/technologist.png
 resume: https://sushanthsamala.tech/resume.pdf
 social:
-  - title: email
-    url: mailto:sushanthsamala@gmail.com
-  - title: github
-    url: https://github.com/sushanthsamala
   - title: linkedin
     url: https://www.linkedin.com/in/sushanthsamala
+  - title: github
+    url: https://github.com/sushanthsamala
+  - title: email
+    url: mailto:sushanthsamala@gmail.com
 
 # Build settings
 markdown: kramdown

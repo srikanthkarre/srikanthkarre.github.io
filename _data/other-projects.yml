@@ -69,6 +69,7 @@
   description: Devised a python application which can encrypt and decrypt mp3, mp4, text files for safe transmission of data.
   used:
     - thing: Python
+    - thing: Encryption
 
 - name: Ratatouille
   url: https://github.com/sushanthsamala/Ratatouille
