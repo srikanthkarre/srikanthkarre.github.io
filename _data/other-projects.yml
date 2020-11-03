@@ -30,17 +30,19 @@
     - thing: Spacy
     - thing: NLP
 
-- name: Image Comparison
-  url: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
-  code: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
-  description: Comparing images is very easy for humans we can easily identify a dog in a picture, but it's difficult to put into words what a dog is, for example dog has 4 legs, but many animals have four legs, dog had a tail, but many animals have tails, to say the least it is very difficult for computers to identify a dog. I'm currently working on creating a image comparison machine learning model which takes in an image and outputs the most similar image from the most popular ImageNet dataset.
+- name: Image Recognizer
+  url: https://github.com/sushanthsamala/image-recognizer-web-app
+  code: https://github.com/sushanthsamala/image-recognizer-web-app
+  description: Comparing images is very easy for humans we can easily identify a dog in a picture, but it's difficult to put into words what a dog is, for example dog has 4 legs, but many animals have four legs, dog had a tail, but many animals have tails, to say the least it is very difficult for computers to identify a dog. This Image Recognizer web application is Dockerized and scaled using Kubernetes with 4 replicas. The web application allows a user to upload an image and get a class label and confidence of the model. The machine learning model uses the famous AlexNet architecture and trained on the complete ImageNet dataset.
   used:
     - thing: Python
     - thing: PyTorch
-    - thing: IBM Watson Studio
-    - thing: Watson Machine Learning
-    - thing: COS
+    - thing: Python Flask
+    - thing: Machine Learning
+    - thing: Kubernetes
     - thing: ImageNet
+    - thing: Docker
+    - thing: AlexNet
 
 - name: 3D Object Detection for Autonomous Driving
   url: https://github.com/sushanthsamala/3D-Object-Detection-for-Autonomous-Driving
@@ -53,15 +55,15 @@
     - thing: Machine Learning
 
 - name: Recognizing Hand Written Digits
-  url: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
-  code: https://github.com/sushanthsamala/Cloud-and-Machine-Learning
-  description: Recognizing handwritten numbers is very easy for humans, but it's a difficult task for machines. I created a simple handwritten digit recognizer in Watson Studio with PyTorch.
+  url: https://github.com/sushanthsamala/digit-recognizer
+  code: https://github.com/sushanthsamala/digit-recognizer
+  description: Recognizing handwritten numbers is very easy for humans, but it's a difficult task for machines. I created a simple handwritten digit recognizer using PyTorch.
   used:
     - thing: Python
     - thing: PyTorch
-    - thing: IBM Watson Studio
-    - thing: Watson Machine Learning
-    - thing: COS
+    - thing: Modular CNN
+    - thing: Machine Learning
+    - thing: MNIST
 
 - name: Data Management
   url: https://github.com/kwy518/Data-Management
