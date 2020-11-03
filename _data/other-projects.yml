@@ -79,8 +79,8 @@
     - thing: gspread
 
 - name: E-Commerce Website
-  url: https://github.com/sushanthsamala/DevOps
-  code: https://github.com/sushanthsamala/DevOps
+  url: https://github.com/Agile-Organization/recommendations
+  code: https://github.com/Agile-Organization/recommendations
   description: Currently working on an E-commerce website as a part of my academic project. Building the back-end code base for processing transactions, user authentication using Agile methodologies.
   used:
     - thing: Python
