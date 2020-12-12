@@ -30,6 +30,22 @@
     - thing: Spacy
     - thing: NLP
 
+- name: Landmark Recognition
+  url: https://github.com/sushanthsamala/landmark-recognition
+  code: https://github.com/sushanthsamala/landmark-recognition
+  description: Landmark recognition is an instance recognition task and has its own set of challenges. The first and most critical of them is that it is impossible to provide a concrete concept of a landmark. Landmarks do not have a common structure and can be just about anything; buildings, monuments, cathedrals, parks, waterfalls, castles, etc. I built a state-of-the-art landmark recognition model by enhancing the famous Inception model architecture, my model achieved an accuracy of 90%. I fine-tuned the famous deep learning architectures like EfficientNet, ResNet, VGG to fit the Google landmark dataset.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Python Flask
+    - thing: Machine Learning
+    - thing: Kubernetes
+    - thing: Docker
+    - thing: Inception
+    - thing: EfficientNet
+    - thing: ResNet
+    - thing: VGG
+
 - name: Image Recognizer
   url: https://github.com/sushanthsamala/image-recognizer-web-app
   code: https://github.com/sushanthsamala/image-recognizer-web-app
