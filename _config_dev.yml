@@ -1,13 +1,13 @@
 # Site settings
 name: Sushanth Samala
 title: Sushanth Samala | Software Engineer
-description: I'm Sushanth Samala, Computer Science graduate student at New York University, Courant Institute of Mathematical Science.
+description: I'm Sushanth Samala, a Software Engineer at Google.
 url: https://sushanthsamala.tech
 baseurl: ''
 email: sushanthsamala@gmail.com
 cover: https://sushanthsamala.tech/img/og.png
 logo: https://sushanthsamala.tech/img/emojis/technologist.png
-resume: https://sushanthsamala.tech/sushanth_samala_SWE2021.pdf
+resume: https://sushanthsamala.tech/sushanth_samala_SWE.pdf
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/sushanthsamala
