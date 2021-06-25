@@ -1,3 +1,16 @@
+- company: Google
+  url: https://www.google.com/
+  time: Jun 2021 - Current
+  position: Software Engineer II
+  location: San Francisco Bay Area, California
+  description: 
+  used:
+    - thing: Java
+    - thing: Guice
+    - thing: Borg
+    - thing: Spanner
+    - thing: GCP
+
 - company: STRIVR
   url: https://www.strivr.com/
   time: May 2020 - Dec 2020
@@ -39,27 +52,3 @@
     - thing: PyTorch
     - thing: CNN
     - thing: Machine Learning
-
-- company: Talent Incubator C/O Kaarmic Educational Services
-  url: http://www.youngleadersinitiative.com
-  time: Mar 2016 - Mar 2017
-  position: Fellow
-  location: Hyderabad, India
-  description: <p>Led a team of 5 and performed market research on early start-ups. Identified the main challenges of start-ups to be lack of enough online presence, lack of marketing.</p> <p>Built responsive websites for <strong>5 companies under non-negotiable deadlines</strong>, negotiated with 3 clients by attending several technology events and networking with people which <strong>increased the revenue by 20%</strong>.</p> <p>Created a website for a client (3Dzyn) using Django as the backend, the site displayed 3D STL files of various objects used for 3D printing services.</p>
-  used:
-    - thing: HTML
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Market Analysis
-    - thing: Django
-
-- company: Sensefil Technologies
-  url: https://www.facebook.com/thetechnnogeek/
-  time: Nov 2015 - Jan 2016
-  position: Information Security Intern
-  location: Hyderabad, India
-  description: <p>Researched the WhatsApp database structure on Android and IOS. Found a vulnerability in the implementation of AES cipher and devised an application to decrypt the WhatsApp database files (Crypt8) by exploiting this AES vulnerability.</p>
-  used:
-    - thing: Python
-    - thing: Decryption
-    - thing: Exploit

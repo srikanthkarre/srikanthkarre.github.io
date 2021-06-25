@@ -16,6 +16,7 @@ cloud:
   - item: Vagrant
   - item: Docker
   - item: Kubernetes
+  - item: Borg
 
 machinelearning:
   - item: PyTorch
