@@ -7,15 +7,17 @@
         <div class="time-place">
           <div class="job__company">
             <a href="{{job.url}}" target="_blank">{{job.company}}</a><br>
-            <!-- <span style="font-size: 80%">{{job.location}}</span> -->
+            <span style="font-size: 80%">{{job.location}}</span>
           </div>
           <div class="job__time">{{job.time}}</div>
         </div>
         <div class="job__position">{{job.position}}</div>
-          <!-- <br>
+          <br>
+        <p>{{project.description}}</p>
+        <br>
           {% for item in job.used %}
           <span class="job__used__item">{{item.thing}}</span>
-          {% endfor %} -->
+          {% endfor %}
         </div>
         {% endfor %}
       </div>
