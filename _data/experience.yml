@@ -15,7 +15,7 @@
   url: https://www.strivr.com/
   time: May 2020 - Dec 2020
   position: Software Engineer Intern
-  location: Palo Alto, California (Remote)
+  location: San Francisco Bay Area, California
   description: <p>Built a feature on a WPF app to automate the process of capturing 360 degree screenshot of a Virtual Reality Experience video and converting the screenshots into equirectangular views 90, 270, 360 degree yaw angles apart.</p> <p>Developed an API to retrieve these screenshots and a web portal to display these images for easy access to the Data Science team. This removed the manual overhead and <strong>reduced the total time needed to get the screenshots by 99.99%</strong>.</p> <p>Currently working on automating testing the code base before deloying to production in Azure pipelines.</p>
   used:
     - thing: C#
