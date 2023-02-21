@@ -1,0 +1,35 @@
+- name: JARVIS - Virtual Home Assistant
+  url: https://github.com/srikanthkarre/JARVIS
+  code: https://github.com/srikanthkarre/JARVIS
+  description: Developed a <strong>voice module</strong> which converts voice commands from user into text commands using google speech-to-text (STT) engine. These commands are then sent to raspberry pi which sends control signals to home appliances. Developed an android application using java integrated with Vuforia Object Scanner library to <strong>identify objects</strong> and send appropriate signals to raspberry pi to control home appliances. The assistant is easy to use and <strong>specially designed for visually challenged, speech impaired and physically disabled people</strong>.
+  used:
+    - thing: Python
+    - thing: Java
+    - thing: Android Studio
+    - thing: Google Speech-To-Text Engine
+    - thing: Vuforia Engine
+    - thing: Raspberry Pi
+
+- name: Intern Rating
+  url: 
+  code: 
+  description: Developed a machine learning regression model to predict the rating of an intern based on his <strong>skills</strong> in various aspects as a freelancer for a company to evaluate the performance of new interns.
+  used:
+    - thing: Python
+    - thing: Machine Learning
+
+- name: Multi Variable Linear Regression without Built-in Methods
+  url: https://github.com/srikanthkarre/Linear-Reg-with-Multi-variables/blob/master/LinearReg%20with%20MultiVariable(no%20Built-in%20methods).ipynb
+  code: https://github.com/srikanthkarre/Linear-Reg-with-Multi-variables/blob/master/LinearReg%20with%20MultiVariable(no%20Built-in%20methods).ipynb
+  description: The Aim of this project is to predict the price of the house, based on multiple features of the houses without using <strong>built-in Machine Learning model</strong>. Applied Gradient Discent to get the best theta values. <strong>Achieved accuracy equivalent to a built-in ML model</strong>.
+  used:
+    - thing: Python
+    - thing: Machine Learning
+
+- name: LAN Chatting System
+  url: 
+  code: 
+  description: Developed a regular chatting application using Java in which server can accept <strong>requests from multiple clients</strong> and clients can chat with server and among themself simultaniously.
+  used:
+    - thing: Java
+

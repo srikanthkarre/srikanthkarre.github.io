@@ -1,0 +1,36 @@
+languages:
+  - item: Python
+  - item: C
+  - item: C++
+  - item: Java
+  - item: JavaScript
+  - item: SQL
+  - item: PHP
+  - item: AngularJS
+
+cloud:
+  - item: AWS Lambda
+  - item: Docker
+  - item: Google Cloud Platform
+  - item: AWS API Gateway
+
+machinelearning:
+  - item: PyTorch
+  - item: TensorFlow
+  - item: Keras
+  - item: Scikit-learn
+  - item: Colab
+  - item: Kaggle
+  - item: Yolo
+  - item: Darknet
+
+other:
+  - item: Git
+  - item: Postman
+  - item: MySQL
+  - item: Linux
+  - item: Flask
+  - item: DJango
+  - item: fastAPI
+  - item: Swagger
+  - item: Hyperledger Fabric

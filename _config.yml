@@ -1,0 +1,39 @@
+# Site settings
+name: Srikanth Karre
+title: Srikanth Karre | CS Grad Student
+description: I'm Srikanth Karre, a Computer Science Graduate Student at Texas A & M University - Kingsville.
+url: 
+baseurl: ''
+email: ksrikanth910@gmail.com
+cover: 
+logo: https://github.com/srikanthkarre/srikanthkarre.github.io/tree/main/img/emojis/technologist.png
+resume: https://blog.srikanthkarre.com/srikanthkarre_resume.pdf
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/srikanthkarre
+  - title: github
+    url: https://github.com/srikanthkarre
+  - title: email
+    url: mailto:ksrikanth910@gmail.com
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
