@@ -1,13 +1,13 @@
 # Site settings
 name: Srikanth Karre
 title: Srikanth Karre | CS Grad Student
-description: I'm Srikanth Karre, a Computer Science Graduate Student at Texas A & M University - Kingsville.
+description: I'm Srikanth Karre, a Computer Science Graduate Student at Texas A&M University - Kingsville.
 url: 
 baseurl: ''
 email: ksrikanth910@gmail.com
 cover: 
 logo: https://github.com/srikanthkarre/srikanthkarre.github.io/tree/main/img/emojis/technologist.png
-resume: https://blog.srikanthkarre.com/srikanthkarre_resume.pdf
+resume: https://srikanthkarre.com/srikanthkarre_resume.pdf
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/srikanthkarre
