@@ -74,7 +74,7 @@
   time: Jul 2015 - Dec 2015
   position: Research & Development Apprentice
   location: Hyderabad, India
-  description: <p>Developed a Fingerprint Biometric System in VB.Net using SQL database in backend which includes Registration, Verification and Identification modules. These modules enable new users to Register and their encrypted fingerprint data is stored in the database and Identify and Authorise the existing user's via fingerprint.<br>Created a web page that highlights various server locations along with their status on map with various colors based on the server data fetched from the database.</p>
+  description: <p>Developed a Fingerprint Biometric System in VB.Net using SQL database in backend which includes <strong>Registration</strong>, <strong>Verification</strong> and <strong>Identification</strong> modules. These modules enable new users to Register and their encrypted fingerprint data is stored in the database and Identify and Authorise the existing user's via fingerprint.<br>Created a web page that highlights various server locations along with their status on map with various colors based on the server data fetched from the database.</p>
   used:
     - thing: VB.Net
     - thing: SQL Databse
