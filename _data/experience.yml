@@ -1,8 +1,19 @@
+- company: Techever Ventures LLC
+  url: http://thetechever.com
+  time: Oct 2023 - Present
+  position: Software Developer Intern
+  location: Texas, USA
+  description: <p><b>-</b> Collaborate with cross-functional teams to design and develop innovative software solutions for enterprise performance management.<br><b>-</b> Conduct thorough testing and debugging of software to ensure high-quality deliverables.<br></p>
+  used:
+    - thing: Hyperledger Fabric
+    - thing: Modular Blockchain
+    - thing: RaspberryPi
+
 - company: Texas A & M University - Kingsville
   url: https://www.tamuk.edu
   time: Jul 2022 - Dec 2022
   position: Graduate Research Assistant
-  location: Kingsville, USA
+  location: Texas, USA
   description: <p>Setup of Hyperledger Fabric on raspberry pi and implementing Modular Blockchain network (segregating fabric network, channel and peers into different raspberry pi’s) using raspberry pi’s stack.<br></p>
   used:
     - thing: Hyperledger Fabric
