@@ -49,7 +49,7 @@
   time: May 2019 - Dec 2019
   position: Software Developer
   location: Bengaluru, India
-  description: <p>Collaborated with the gas station and cab services and deployed an android application using Java and Google Firebase internally in an organization, where cab drivers can raise a gas filling request for a custom amount. These requests are forwarded to both gas station and cab services managers. The requests are then approved later. This helps gas stations and cab services to maintain <strong>transparent transaction records</strong> every month, <strong>clear bills on time</strong> with ease, and track cab services <strong>monthly spending</strong> on gas</strong>.<br></p>
+  description: <p>Collaborated with the gas station and cab services and deployed an android application "Soujanya" using Java and Google Firebase internally in an organization, where cab drivers can raise a gas filling request for a custom amount. These requests are forwarded to both gas station and cab services managers. The requests are then approved later. This helps gas stations and cab services to maintain <strong>transparent transaction records</strong> every month, <strong>clear bills on time</strong> with ease, and track cab services <strong>monthly spending</strong> on gas</strong>.<br></p>
   used:
     - thing: Java
     - thing: Android Studio
